@@ -1,0 +1,52 @@
+/*
+Personal Web Page Style Sheet
+Student name: Nolan Harless
+Student Section: 01
+Personal Website Assignment
+*/
+body{
+    background-color: #4287f5;
+}
+h1{
+    color: blue;
+    font-family: monospace;
+}
+.margins{
+    padding: 25px;
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+}
+.default-font-style{
+    font-family: sans-serif;
+}
+.title{
+    text-align: center;
+    color: blue;
+}
+.nav{
+    list-style-type: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.nav li{
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px;
+}
+.nav li a{
+    text-decoration: none;
+}
+.style-image{
+    width: 90%;
+}
+.hero-image{
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+    padding: 25px 0px;
+}
+.bold{
+    font-weight: bold;
+}
